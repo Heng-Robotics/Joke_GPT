@@ -3,7 +3,7 @@ import openai
 import pandas as pd
 
 # 设置你的OpenAI GPT API密钥
-openai.api_key = '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'
+openai.api_key = '**********************************************'
 
 # 读取包含笑话的CSV文件
 input_csv_path = '/home/heng/Robot/Dataset/Humor/one_line/INPUT/jokes_all.csv'
