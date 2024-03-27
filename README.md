@@ -6,4 +6,6 @@ Here are three pieces of code for the annotation:
 
 1. gpt_classify.py is for the humor style classification;  
 2. gpt_keyword.py is for the keyword extraction;  
-3. gpt_rating.py is for the funninness level rating.  
+3. gpt_rating.py is for the funninness level rating.
+
+You can find the final version of this dataset from this [link](https://docs.google.com/spreadsheets/d/143XgXG6tdPchy1lb5CNAbP5CBJEt7zcZJxGEa-4GEOs/edit?usp=sharing).
